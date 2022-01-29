@@ -38,4 +38,8 @@ body .section-1 header .right {
           align-items: center;
   gap: 66px;
 }
+
+body .section-1 header img {
+  position: absolute;
+}
 /*# sourceMappingURL=style.css.map */
