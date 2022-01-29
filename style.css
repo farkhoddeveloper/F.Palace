@@ -40,7 +40,7 @@ body .section-1 header .right {
 }
 
 body .section-1 header img {
-  position: absolute;
+  position: relative;
   left: 150px;
 }
 /*# sourceMappingURL=style.css.map */
