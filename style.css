@@ -28,4 +28,13 @@ body .section-1 header {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+body .section-1 header .right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
 /*# sourceMappingURL=style.css.map */
