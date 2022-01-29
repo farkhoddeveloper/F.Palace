@@ -41,5 +41,6 @@ body .section-1 header .right {
 
 body .section-1 header img {
   position: absolute;
+  left: 150px;
 }
 /*# sourceMappingURL=style.css.map */
